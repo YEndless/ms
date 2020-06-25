@@ -1,0 +1,314 @@
+.bg{
+  /*background-image: url('../images/bg2.png');*/
+  width: 100%;
+		height: 100%;
+		position: fixed;
+		background-repeat: no-repeat;
+		background-position: -0.625rem 0px;
+		background-size: 100% 100%;
+    z-index: -100;
+  }
+  .logo1{
+    padding: 0.625em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .img-css{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .center-css{
+    padding: 10px 0 10px 0;
+    text-align: center;
+  }
+  .word{
+    font-size: 1.5em;
+    font-weight: 700;
+  }
+  .input-style1{
+    margin-top: 0.625em;
+    font-weight: 700;
+    color: #323232;
+  }
+  .input-style2{
+    margin-bottom: 1.275em;
+
+  }
+  .input-style2 input {
+    font-size: 1.2em;
+
+  }
+  .input-bg{
+    background-color: #f5f5f2;
+    width: 18.75em;
+    height: 3.75em;
+    text-align: center;
+    border: 1px solid #dfdfdc;
+  }
+  .btn{
+    background-color: #092ca5;
+    width: 10.75em;
+    height: 2.75em;
+    color: white;
+    text-align: center;
+    font-size: 1.25em;
+  }
+
+  .form{
+    padding: .1rem .96rem;
+    overflow: hidden;
+    color: #545252;
+    padding-top: 2em;
+    font-size: 0.9em;
+  }
+ .upd{
+   color: #434347;
+ }
+  .main{
+    background-image: url('../images/sam-yyt.png');
+    margin: 3% 4% 3% 3%;
+		background-repeat: no-repeat;
+		background-position: 0px 0px;
+    background-size: 100% 100%;
+    border-radius:1.5em;
+    z-index: -100;
+    box-shadow: 0 5px 5px #ebebeb;
+  }
+  .szj-bg{
+    position: absolute;;
+    left: 1.25em;
+    top: 1.05em;
+    height: 3.24em;
+    width: 4.32em;
+    z-index: 1;
+  }
+
+  .sam-word{
+    position: absolute;;
+    top: 0.7em;
+    left:3.3em;
+    color: white;
+    font-size: 2em;
+    z-index: 1;
+  }
+  .top-bg{
+    position: relative;
+    background-image: url('../images/bg3.png');
+    background-size: 100% 100%;
+    background-position: center 0;
+		width: 100%;
+    background-repeat: no-repeat;
+  }
+.top-bg1{
+  background-size: 100% 100%;
+}
+  .headUrl{
+    position: absolute;;
+    right:1em;
+    top:1em;
+    height: 6em;
+    width: 4.8em;
+  }
+  .age-bg{
+    position: absolute;;
+    right: 2.75em;
+    top: 9em;
+    height: 2.75em;
+    width: 2.75em;
+  }
+  .age{
+    position: absolute;
+    font-size: 0.85em;
+    right: 3.75em;
+    top: 11.5em;
+    color: white;
+  }
+  .benren{
+    position: absolute;;
+    top: 5.7em;
+    left: 13em;
+    color: white;
+    font-size: 0.85em;
+    width: 5.5em;
+    height: 2.4em;
+    background-color: #6ba5f7;
+    border-radius: 1.5em;
+    border:none
+  }
+
+  .info{
+    padding-top: 5em;
+    padding-left: 0.5em;
+    position: relative;
+  }
+  .pad0{
+    padding: 0 0.6em 0.4em 0.5em;
+  }
+  .pad{
+    padding: 0.4em 0.6em 0.4em 0.5em;
+  }
+  .info-detail{
+    text-align: center;
+    padding-right: 2.5em;
+    width: 7.5em;
+    font-size: 0.9em;
+    color: white;
+  }
+  .info-detail2{
+    text-align: center;
+    width: 7.5em;
+    font-size: 0.9em;
+    color: white;
+  }
+  .right_item{
+    padding-left: 40px;
+  }
+  .panel{
+    margin: 5px;
+    border: 1px solid #ebebeb ;
+    border-radius:0 0 30px 30px;
+  }
+  .pane2{
+    margin: 5px;
+  }
+
+  .info-btn{
+    text-align: center;
+  }
+  .btn-bg1{
+    background-color: white;
+    color: #3974da;
+    width: 9em ;
+    height: 2em;
+    border-radius:2.5em ;
+    border: 1px solid #3974da ;
+    font-size: 1em;
+  }
+  .btn-bg2{
+    background-color: white;
+    color: #e60012;
+    width: 9em ;
+    height: 2em;
+    border-radius:2.5em ;
+    border: 1px solid #e60012 ;
+    font-size: 1em;
+  }
+  .info-btn2{
+    text-align: center;
+    width: 100%;
+  }
+  .btn-bg3{
+    background-color: #f1f1f1;
+    width: 15em ;
+    height: 3em;
+    border-radius:2.5em ;
+    border: 1px solid white ;
+    font-size:0.9em;
+    margin: 1em;
+    color: #565353;
+  }
+  .erCode-css{
+    width: 12em ;
+    height: 12em;
+  }
+.nosam{
+  float: right;
+  margin-right: 3.2em;
+  border-bottom: 1px solid gray ;
+  margin-top: 1em;
+}
+
+.confrim-div{
+  text-align: center;
+  padding-top: 6em;
+}
+.confirm-btn{
+  width: 9em;
+  line-height: 2em;
+  text-align: center;
+  font-size: 1em;
+  font-weight: bold;
+  color: #fff;
+  border-radius: 0.25em;
+  margin:0 1em 1em 0;
+  position: relative;
+  overflow: hidden;
+  background: #1e7db9;
+}
+.confrim-word{
+  padding-bottom: 2em;
+  color: transparent;
+  -webkit-text-stroke: 1px red;
+  letter-spacing: 0.1em
+}
+/*
+提交报名按钮
+*/
+.tjbm{
+  width: 10rem;
+  padding: 0.2rem 0;
+  margin: 2rem auto;
+  text-align: center;
+  background-color: #092ca5;
+  color: white;
+  border-radius: 5px;
+}
+
+/*
+上传
+*/
+.upload-style{
+  /* padding-left: 3em;
+  padding-right: 5em; */
+  text-align: center;
+
+}
+
+/*
+info.html ,
+*/
+.submit-btn{
+  padding: 0.2rem 0;
+  text-align: center;
+  background-color: #3973d9;
+  color: white;
+  border-radius: 5px;
+}
+.pxbm-style{
+  padding-left: 5em ;
+  padding-right: 2em;
+}
+.pxDetail{
+  background-color: white;
+  width: 10rem;
+  height: 1.2rem;
+  text-align: center;
+  border-radius: 0.25em;
+  font-size: 0.9em;
+}
+.mask-white,.mask-black{
+  left:0; top:0;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background: rgba(255,255,255,0.8);
+  z-index: 99}
+.mask-black{
+  background: rgba(0,0,0,0.5)
+}
+/* show/hide */
+.hide{
+  display:none
+}
+.show{
+  display:block
+}
+/* input */
+select{
+  vertical-align:middle;
+  font-family:"Microsoft YaHei";
+  font-size:.4rem;
+  border:0;
+}
